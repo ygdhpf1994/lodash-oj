@@ -51,6 +51,7 @@ var testCasesByHand = {
     [{a:1,b:{c:1}}, {b:{c:1}}],
   ],
   isEqual: [
+    [22, 23],
     [1,2],
     [2,2],
     ['foo','foo'],
