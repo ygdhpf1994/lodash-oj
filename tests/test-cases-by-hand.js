@@ -49,6 +49,7 @@ var testCasesByHand = {
   ],
   isMatch: [
     [{a:1,b:{c:1}}, {b:{c:1}}],
+    [{a:33,f:7,g:{x:{y:15}}}, {g:{x:{y:15}}}],
   ],
   isEqual: [
     [22, 23],
