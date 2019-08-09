@@ -191,7 +191,7 @@ var testCasesByHand = {
   ],
   zip: [
     [['a', 'b'], [1, 2], [true, false]],
-    [['a', 'b'], [1, 2], [true, false,'v'],['v']],
+    [['a', 'b'], [1], [true, false,'v'],['v']],
   ],
   without: [
     [[2, 1, 2, 3], 1, 2]
